@@ -32,5 +32,5 @@ enableRobotsTXT = true
   recent_posts_number = 3
 
 [[params.ananke_socials]]
-name = "email"
+name = "twitter"
 url = "mailto:kylewarner@mailstack.com"
