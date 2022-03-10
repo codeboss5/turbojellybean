@@ -1,6 +1,6 @@
 baseURL = '/'
 languageCode = 'en-us'
-title = 'Turbo Jellybean'
+title = 'Warner Share Point'
 theme = "ananke"
 resourceDir = "../resources"
 
