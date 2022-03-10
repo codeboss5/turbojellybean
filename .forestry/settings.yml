@@ -15,11 +15,6 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: content/fr
-  label: Fr
-  create: all
-  match: "**/*"
-- type: directory
   path: content/en
   label: En
   create: all
