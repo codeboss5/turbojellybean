@@ -17,3 +17,8 @@ fields:
 - type: text
   name: title
   label: title
+- name: pic
+  type: file
+  config:
+    maxSize: 64
+  label: Pic
