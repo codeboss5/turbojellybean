@@ -3,7 +3,7 @@ date: 2022-03-10T16:49:49-05:00
 description: pictures
 featured_image: ''
 tags: []
-title: ''
+title: Trial
 pic: "/uploads/images.jpg"
 gallary:
 - "/uploads/images.jpg"
