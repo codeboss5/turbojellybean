@@ -22,3 +22,7 @@ fields:
   config:
     maxSize: 64
   label: Pic
+- name: gallary
+  type: image_gallery
+  config: {}
+  label: Gallary
