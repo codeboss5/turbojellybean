@@ -2,9 +2,8 @@
 date: 2017-04-09T10:58:08.000-04:00
 description: The Examination of a Candidate to be a Church Member To determine the
   suitability of his membership in a local Church
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
-tags:
-- scene
+featured_image: ''
+tags: []
 title: The GOSPEL TRUTH
 
 ---
