@@ -1,8 +1,8 @@
 ---
-title: "Ananke: a Hugo Theme"
-
-description: "The last theme you'll ever need. Maybe."
+title: Warner Share-point
+description: All the stories and poems you love in one place.
 cascade:
-  featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+  featured_image: "/images/gohugo-default-sample-hero-image.jpg"
+
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Welcome to my collection of Warner family stories and poems.
