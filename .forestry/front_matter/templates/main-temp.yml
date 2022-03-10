@@ -26,3 +26,5 @@ fields:
   type: image_gallery
   config: {}
   label: Gallary
+pages:
+- content/en/post/chapter-2.md
