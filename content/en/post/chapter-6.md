@@ -8,7 +8,7 @@ disable_share: false
 
 ---
 Go hang yourself, you old M.D,!  
-You shall not sneer at me.  
+You shall no longer sneer at me.  
 Pick up your hat and stethoscope,  
 Go wash your mouth with laundry soap;  
 I contemplate a joy exquisite  
