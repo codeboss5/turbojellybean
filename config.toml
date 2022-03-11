@@ -12,7 +12,7 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "Turbo Jellybean"
+    title = "Warner Share Point"
     weight = 1
     contentDir = "content/en"
 
