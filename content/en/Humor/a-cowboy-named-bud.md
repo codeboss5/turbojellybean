@@ -1,9 +1,9 @@
 +++
-date = ""
+date = 2022-03-11T05:00:00Z
 description = ""
 disable_share = true
 featured_image = "/uploads/images-1.jpg"
-tags = []
+tags = ["humor"]
 title = "A Cowboy Named Bud"
 
 +++
