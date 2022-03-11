@@ -21,16 +21,6 @@ enableRobotsTXT = true
   priority = 0.5
   filename = "sitemap.xml"
 
-[[menu.main]]
-name = "Humor"
-url = "tags/humor/"
-weight = 1
-
-[[menu.main]]
-name = "Tags"
-url = "/tags/"
-weight = 2
-
 [params]
   text_color = ""
   author = ""
