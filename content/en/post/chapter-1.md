@@ -3,7 +3,7 @@ date: 2017-04-09T10:58:08.000-04:00
 description: The Examination of a Candidate to be a Church Member To determine the
   suitability of his membership in a local Church
 featured_image: "/uploads/download-1.jpg"
-tags: []
+tags: "humor"
 title: The GOSPEL TRUTH
 
 ---
