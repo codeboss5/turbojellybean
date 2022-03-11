@@ -2,7 +2,7 @@
 date = ""
 description = ""
 disable_share = true
-featured_image = ""
+featured_image = "/uploads/images-1.jpg"
 tags = []
 title = "A Cowboy Named Bud"
 
