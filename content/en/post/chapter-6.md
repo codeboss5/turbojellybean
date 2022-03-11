@@ -1,7 +1,7 @@
 ---
 date: 2017-04-14T11:25:05.000-04:00
 description: Poem
-featured_image: "/images/esmeralda.jpg"
+featured_image: ''
 tags: []
 title: The Common Cold
 disable_share: false
