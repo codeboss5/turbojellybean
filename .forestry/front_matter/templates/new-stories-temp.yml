@@ -21,6 +21,7 @@ fields:
   name: disable_share
   label: disable_share
 pages:
+- content/en/Humor/a-cowboy-named-bud.md
 - content/en/post/no-greater-love.md
 - content/en/post/the-eighteen-bottles.md
 - content/en/post/the-stranger.md
