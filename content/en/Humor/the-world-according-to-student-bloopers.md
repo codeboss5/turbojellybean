@@ -1,6 +1,6 @@
 +++
 date = 2022-03-11T20:47:16Z
-description = ""
+description = "One of the fringe benefits of being an English or History teacher is receiving the occasional jewel of a student blooper in an essay. I have pasted together the following ``history of the world'' from certifiably genuine student bloopers collected by teachers throughout the United States, from eighth grade through college level. Read carefully, and you will learn a lot."
 disable_share = true
 featured_image = ""
 tags = []
