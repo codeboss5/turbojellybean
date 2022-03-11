@@ -21,5 +21,6 @@ fields:
   name: disable_share
   label: disable_share
 pages:
+- content/en/post/the-eighteen-bottles.md
 - content/en/post/the-stranger.md
 - content/en/post/wanted-criminal.md
