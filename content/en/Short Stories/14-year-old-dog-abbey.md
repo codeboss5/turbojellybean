@@ -8,6 +8,8 @@ tags = []
 title = "14-year-old dog Abbey"
 
 +++
+[**Download as PDF**](/uploads/14-year-old-dog-abbey.pdf)
+
 Our 14-year-old dog Abbey died last month. The day after she passed away my 4-year-old daughter Meredith
 
 was crying and talking about how much she missed Abbey. She asked if we could write a letter to God so that
