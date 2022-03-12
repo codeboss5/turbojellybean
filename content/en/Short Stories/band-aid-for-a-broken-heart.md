@@ -8,6 +8,8 @@ tags = []
 title = "Band-Aid for A Broken Heart"
 
 +++
+[**Download as PDF**](/uploads/band-aid-for-a-broken-heart.pdf)
+
 I'd just like to share this story I have just read with you:
 
 "Hi Mum, what are you doing?", asked Susie. "I'm making a casserole for Mrs Smith next door," said her
