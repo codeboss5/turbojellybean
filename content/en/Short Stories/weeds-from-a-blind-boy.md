@@ -8,7 +8,7 @@ tags = []
 title = "Weeds from A Blind Boy"
 
 +++
-[Download as PDF](/uploads/weeds-from-a-blind-boy.pdf)
+[**Download as PDF**](/uploads/weeds-from-a-blind-boy.pdf)
 
 The park bench was deserted as I sat down to read
 
