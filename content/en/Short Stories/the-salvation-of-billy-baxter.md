@@ -1,7 +1,7 @@
 +++
 date = 2022-03-12T14:55:21Z
 description = "Caitrin Keiper"
-disable_share = false
+disable_share = true
 featured_image = ""
 pdf = "/uploads/the-salvation-of-billy-baxter.pdf"
 tags = []
