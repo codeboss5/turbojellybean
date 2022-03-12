@@ -8,6 +8,8 @@ tags = []
 title = "A Cab Ride I'll Never Forget"
 
 +++
+[**Download as PDF**](/uploads/a-cab-ride-i-ll-never-forget.pdf)
+
 Twenty years ago, I drove a cab for a living. One night I took a fare at 2:30 AM, when I arrived to collect,
 
 the building was dark except for a single light in a ground floor window. Under these circumstances, many
