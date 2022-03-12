@@ -8,6 +8,8 @@ tags = []
 title = "The Salvation of Billy Baxter"
 
 +++
+[**Download as PDF**](/uploads/the-salvation-of-billy-baxter.pdf)
+
 I ’M F L YING DOWN THE HI GHWA Y , pumping my fist in the air. “Second Timothy four: seven and eight!” I
 
 belt out into the sunshine. “I have fought the good fight, I have finished the race, I have kept the faith!” I’m
