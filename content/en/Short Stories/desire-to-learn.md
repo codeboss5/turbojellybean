@@ -8,6 +8,8 @@ tags = []
 title = "Desire to Learn"
 
 +++
+[**Download as PDF**](/uploads/desire-to-learn.pdf)
+
 I was out at the hobby store looking for some new enhancements for my remote helicopter and as I was
 
 leaving the store right next to it was one of those learning stores. The kind that sell educational supplies and
