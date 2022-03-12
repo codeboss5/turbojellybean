@@ -8,6 +8,8 @@ tags = []
 title = "The Medicine Bag"
 
 +++
+[**Download as PDF**](/uploads/the-medicine-bag-by-virginia-driving-hawk-sneve.pdf)
+
 My kid sister Cheryl and I always bragged about our Sioux grandpa, Joe Iron Shell. Our friends, who had always lived in the city and only knew about Indians from movies and TV, were impressed by our stories. Maybe we exaggerated and made Grandpa and the reservation sound glamorous, but when we’d return home to Iowa after our yearly summer visit to Grandpa, we always had some exciting tale to tell.
 
 We always had some authentic Sioux article to show our listeners. One year Cheryl had new moccasins that Grandpa had made. On another visit he gave me a small, round, flat rawhide drum which was decorated with a painting of a warrior riding a horse. He taught me a real Sioux chant to sing while I beat the drum with a leather-covered stick that had a feather on the end. Man, that really made an impression.
