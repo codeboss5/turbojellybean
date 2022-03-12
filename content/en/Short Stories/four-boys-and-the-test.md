@@ -8,6 +8,8 @@ tags = []
 title = "Four boys and the Test"
 
 +++
+[**Download as PDF**](/uploads/four-boys-and-the-test.pdf)
+
 There was a group of four boys, who loved to party. If given the chance they would always
 
 party instead of studying because they hated studying so much. The night before a big test,
