@@ -8,7 +8,7 @@ tags = []
 title = "The Storm"
 
 +++
-[Download as PDF](/uploads/the-storm.pdf)
+[**Download as PDF**](/uploads/the-storm.pdf)
 
 After a few of the usual Sunday evening hymns, the church's Pastor slowly stood up, walked over to the pulpit
 
