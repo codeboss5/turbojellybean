@@ -8,6 +8,8 @@ tags = []
 title = "The Storm"
 
 +++
+[Download as PDF](/uploads/the-storm.pdf)
+
 After a few of the usual Sunday evening hymns, the church's Pastor slowly stood up, walked over to the pulpit
 
 and, before he gave his sermon for the evening, briefly introduced a guest Minister who was in the service that
