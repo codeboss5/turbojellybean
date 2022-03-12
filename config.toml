@@ -1,36 +1,29 @@
-baseURL = '/'
-languageCode = 'en-us'
-title = 'Warner Share Point'
-theme = "ananke"
-resourceDir = "../resources"
-
 DefaultContentLanguage = "en"
+Paginate = 100
 SectionPagesMenu = "main"
-Paginate = 100 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = ""
+baseURL = "/"
 enableRobotsTXT = true
-
-[languages]
-  [languages.en]
-    title = "Warner Share Point"
-    weight = 1
-    contentDir = "content/en"
-
-[sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
-
+googleAnalytics = ""
+languageCode = "en-us"
+resourceDir = "../resources"
+theme = "ananke"
+title = "Warner Share Point"
+[languages.en]
+contentDir = "content/en"
+title = "Warner Share Point"
+weight = 1
 [params]
-  text_color = ""
-  author = ""
-  favicon = ""
-  site_logo = ""
-  description = "Make Your Mark"
-  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-mid-gray"
-  recent_posts_number = 3
-
+author = ""
+background_color_class = "bg-mid-gray"
+description = "Make Your Mark"
+favicon = ""
+recent_posts_number = 3
+site_logo = ""
+text_color = ""
 [[params.ananke_socials]]
 name = "twitter"
 url = "mailto:kylewarner@mailstack.com"
+[sitemap]
+changefreq = "monthly"
+filename = "sitemap.xml"
+priority = 0.5
