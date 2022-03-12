@@ -8,6 +8,8 @@ tags = []
 title = "Mexican Fisherman Meets Harvard MBA"
 
 +++
+[**Download as PDF**](/uploads/mexican-fisherman-meets-harvard-mba.pdf)
+
 What Really Matters in Life?
 
 A vacationing American businessman standing on the pier of a quaint coastal fishing village in southern Mexico
