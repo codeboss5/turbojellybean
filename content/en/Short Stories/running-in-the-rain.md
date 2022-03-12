@@ -8,7 +8,9 @@ tags = []
 title = "Running In The Rain"
 
 +++
-[**Download as PDF**](/uploads/running-in-the-rain.pdf)  
+[**Download as PDF**](/uploads/running-in-the-rain.pdf)
+
+  
 "A little girl had been shopping with her Mom in Target. She must have been 6 years old, this beautiful red
 
 haired, freckle-faced image of innocence. It was pouring outside, the kind of rain that gushes over the top
