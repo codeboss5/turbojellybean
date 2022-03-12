@@ -23,6 +23,11 @@ fields:
 - type: boolean
   name: disable_share
   label: disable_share
+- name: pdf
+  type: file
+  config:
+    maxSize: 64
+  label: PDF
 pages:
 - content/en/Humor/a-cowboy-named-bud.md
 - content/en/Humor/the-world-according-to-student-bloopers.md
