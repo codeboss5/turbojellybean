@@ -8,6 +8,8 @@ tags = []
 title = "Teach Me to Forgive"
 
 +++
+[**Download as PDF**](/uploads/teach-me-to-forgive.pdf)
+
 One day a while back, a man, his heart heavy with grief, was walking in the woods. As he thought
 
 about his life this day, he knew many things were not right. He thought about those who had lied
