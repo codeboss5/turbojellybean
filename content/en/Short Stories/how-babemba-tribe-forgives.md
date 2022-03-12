@@ -8,6 +8,8 @@ tags = []
 title = "How Babemba Tribe Forgives"
 
 +++
+[**Download as PDF**](/uploads/how-babemba-tribe-forgives.pdf)
+
 In the Babemba tribe of South Africa, when a person acts irresponsibly or unjustly, he is placed in the centre
 
 of the village, alone and unfettered. All work ceases, and every man, woman, and child in the village gathers in
