@@ -8,6 +8,8 @@ tags = []
 title = "STOP THE SUN"
 
 +++
+[**Download as PDF**](/uploads/stop-the-sun.pdf)
+
 Terry Erickson was a tall boy; 13, starting to fill out with muscle but still a little awkward. He was on the edge of being a good athlete, which meant a lot to him. He felt it coming too slowly, though, and that bothered him. But what bothered him even more was when his father’s eyes went away. Usually it happened when it didn’t cause any particular trouble. Sometimes during a meal his father’s fork would stop halfway to his mouth, just stop, and there would be a long pause while his eyes went away, far away. After several minutes his mother would reach over and take the fork and put it gently down on his plate, and they would go back to eating - or try to go back to eating - normally.
 
 They knew what caused it. When it first started, Terry had asked his mother in private what it was, what was causing the strange behaviour. ‘It's from the war,’ his mother had said. ‘The doctors at the veterans’ hospital call it the Vietnam syndrome.’
