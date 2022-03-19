@@ -29,6 +29,7 @@ fields:
     maxSize: 64
   label: PDF
 pages:
+- content/en/Easter/videos.md
 - content/en/Humor/a-cowboy-named-bud.md
 - content/en/Humor/the-common-cold.md
 - content/en/Humor/the-eighteen-bottles.md
