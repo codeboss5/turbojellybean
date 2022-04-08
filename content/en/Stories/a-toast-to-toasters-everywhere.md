@@ -1,5 +1,5 @@
 +++
-author = "By Kirk Wareham"
+author = "Kirk Wareham"
 date = ""
 description = ""
 disable_share = true
