@@ -3,12 +3,12 @@ date = 2022-04-08T13:13:26Z
 description = "By Kirk Wareham"
 disable_share = true
 featured_image = ""
-pdf = ""
+pdf = "/uploads/a-toast-to-toasters-everywhere.pdf"
 tags = []
 title = "A Toast to Toasters Everywhere"
 
 +++
-Download as PDF
+[Download as PDF](/uploads/a-toast-to-toasters-everywhere.pdf)
 
 It's 5:00 a.m. in New York.
 
