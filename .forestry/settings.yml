@@ -5,6 +5,11 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: content/en/Poems
+  label: Poems
+  create: all
+  match: "**/*"
+- type: directory
   path: content/en/Stories
   label: Stories
   create: all
@@ -26,7 +31,7 @@ sections:
   match: "**/*"
 - type: directory
   path: content/en
-  label: Content
+  label: Main Directory
   create: all
   match: "**/*"
 upload_dir: static/uploads
