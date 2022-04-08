@@ -20,6 +20,12 @@ fields:
 - type: text
   name: title
   label: title
+- name: author
+  type: text
+  config:
+    required: false
+  label: author
+  hidden: false
 - type: boolean
   name: disable_share
   label: disable_share
