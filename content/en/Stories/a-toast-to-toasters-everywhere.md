@@ -1,6 +1,6 @@
 +++
 date = ""
-description = ""
+description = "By Kirk Wareham"
 disable_share = true
 featured_image = ""
 pdf = "/uploads/a-toast-to-toasters-everywhere.pdf"
