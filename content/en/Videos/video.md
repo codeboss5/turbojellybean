@@ -9,6 +9,10 @@ tags = []
 title = "video"
 
 +++
+lamp attachment
+
 {{< youtube y3a_g__DXfE >}}
+
+other
 
 {{< youtube A9hcJgtnm6Q >}}
