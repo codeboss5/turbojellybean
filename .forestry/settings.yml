@@ -5,6 +5,16 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: content/en/Stories
+  label: Stories
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/en/Short Stories
+  label: Short Stories
+  create: all
+  match: "**/*"
+- type: directory
   path: content/en/Videos
   label: Video
   create: all
