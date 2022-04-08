@@ -9,6 +9,6 @@ tags = []
 title = "video"
 
 +++
-<<{ youtube y3a_g__DXfE }>>
+{{< youtube y3a_g__DXfE >}}
 
-<<{ youtube A9hcJgtnm6Q }>>
+{{< youtube A9hcJgtnm6Q >}}
