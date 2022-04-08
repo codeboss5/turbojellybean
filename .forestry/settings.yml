@@ -5,7 +5,7 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: content/en/Video
+  path: content/en/Videos
   label: Video
   create: all
   match: "**/*"
