@@ -27,6 +27,8 @@ But the folk are now rejoicing as they ne'er rejoiced before,
 
 For we've played Molongo cricket, and McDougal topped the score!
 
+>>>>>
+
 Molongo had a head on it, and challenged us to play
 
 A single-innings match for lunch—the losing team to pay.
@@ -42,6 +44,8 @@ But when the list was totaled we could only number ten.
 Then up spoke big Tim Brady, he was always slow to speak,
 
 And he said — “What price McDougal, who lives down at Cooper's Creek?”
+
+>>>>>
 
 So we sent for old McDougal, and he stated in reply
 
@@ -59,6 +63,8 @@ He got Mrs. Mac. to bowl him, but she couldn't run at all,
 
 So he trained his sheep dog, Pincher, how to scout and fetch the ball.
 
+>>>>>
+
 Now, Pincher was no puppy; he was old, and worn, and grey;
 
 But he understood McDougal, and—accustomed to obey —
@@ -74,6 +80,8 @@ Sometimes McDougal struck the ball—sometimes the ball struck him!
 Each time he struck, the ball would plough a furrow in the ground,
 
 And when he missed, the impetus would turn him three times round.
+
+>>>>>
 
 The fatal day at length arrived—the day that was to see
 
@@ -91,6 +99,8 @@ The highest score was twenty-two, the total sixty-six,
 
 When Brady sent a Yorker down that scattered Johnson's sticks.
 
+>>>>>
+
 Then Piper's Flat went in to bat, for glory and renown,
 
 But, like the grass before the scythe, our wickets tumbled down.
@@ -106,6 +116,8 @@ But McDougal said “I'll take' it, mon!” and planked the money down.
 Then he girded up his moleskins in a self-reliant style,
 
 Threw off his hat and boots, and faced the bowler with a smile.
+
+>>>>>
 
 He held the bat the wrong side out, and Johnson with a grin,
 
@@ -123,6 +135,8 @@ He seized the ball like lightning; then he ran behind a log,
 
 And McDougal kept on running, while Molongo chased the dog.
 
+>>>>>
+
 They chased him up, they chased him down, they chased him round, and then
 
 He darted through a slip-rail as the scorer shouted “Ten!”
@@ -139,6 +153,8 @@ And McDougal kept on jogging, and then Pincher doubled back,
 
 And the scorer counted “Forty” as they raced across the track.
 
+>>>>>
+
 McDougal’s legs were going fast, Molongo's breath was gone—
 
 But still Molongo chased the dog—McDougal struggled on.
@@ -154,6 +170,8 @@ Discretion was the wiser plan, he disappeared from view.
 And as Molongo's beaten men exhausted lay around.
 
 We raised McDougal shoulder-high, and bore him from the ground.
+
+>>>>>
 
 We bore him to M'Ginniss's, where lunch was ready laid,
 
