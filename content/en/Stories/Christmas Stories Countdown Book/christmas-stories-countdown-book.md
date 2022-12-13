@@ -9,4 +9,4 @@ tags = []
 title = "Christmas Stories Countdown Book"
 
 +++
-[**Download PDF**](/uploads/christmas_stories.pdf)
+[**View As PDF**](/uploads/christmas_stories.pdf)
