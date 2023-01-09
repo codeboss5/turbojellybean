@@ -20,11 +20,6 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: content/en/Videos
-  label: Video
-  create: all
-  match: "**/*"
-- type: directory
   path: content/en/Humor
   label: Humor
   create: all
