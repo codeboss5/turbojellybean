@@ -33,7 +33,7 @@ For we've played Molongo cricket, and McDougal topped the score!
 
 Molongo had a head on it, and challenged us to play
 
-A single-innings match for lunch—the losing team to pay.
+A single-innings match--- for lunch—the losing team to pay.
 
 We were not great guns at cricket, but we couldn't well say No,
 
