@@ -27,8 +27,6 @@ But the folk are now rejoicing as they ne'er rejoiced before,
 
 For we've played Molongo cricket, and McDougal topped the score!
 
-|||||||
-
 Molongo had a head on it, and challenged us to play
 
 A single-innings match for lunch—the losing team to pay.
