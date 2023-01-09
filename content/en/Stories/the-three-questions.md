@@ -11,8 +11,6 @@ title = "The Three Questions"
 +++
 [**Download as PDF**](/uploads/the-three-questions.pdf)
 
-**The Three Questions**
-
 By Leo Tolstoy
 
 It once occurred to a certain king that if he always knew the right time to begin everything; if he knew who were the right people to listen to, and whom to avoid; and, above all, if he always knew what was the most important thing to do, he would never fail in anything he might undertake.
