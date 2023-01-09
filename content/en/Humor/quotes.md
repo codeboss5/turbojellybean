@@ -131,17 +131,17 @@ Sometimes I wake up grumpy: other times let her sleep.
 
 **Quotes Part 2**
 
-Pete Seeger
+**Pete Seeger**
 
 This song is copyrighted for a period of 28 years, and anybody caught singin' it without our permission, will be a mighty good friend of ourn, 'cause we don't give a dern Publish it. Write it. Sing it. Swing to it. Yodel it. We wrote it, that's all we wanted to do. We have a nation of overweight people because our main exercise is to move from one seat to the other. From a chair to a car to a desk to a subway seat to a couch in front of the television, to a chair to eat. Singing used to be part of everyday life Women sang while pounding corn Men sang while they were paddling canoes. "I've often thought, standing onstage with 1,000 people in front of me, that somebody over on my right had a great-great grandfather who was trying to kill the great-great grandfather of somebody off to my left. And here we are all singing together. And wouldn't it surprise all those great-grandfathers if they could see their great-grandchildren singing together? They'd probably say, "Why did we fight so hard? Good question! We all go to different churches or no churches. We have different favorite foods, different ways of making love, different ways of doing all sorts of things, but there we're all singing together. Gives you hope".
 
-Bob Hope
+**Bob Hope**
 
 There were so many in my family I was eight years old before it was my turn in the bathroom. In all there were seven brothers. That's how I learned to dance… waiting for my turn in the bathroom. We had the only bathroom in the neighborhood with a revolving door.
 
 I wore hand-me-downs all my life. By the time the trousers got to me, they were so worn that I could sit on a dime and tell you if it was heads or tails. And by the time my younger brother got them, he could do the same thing sitting on a dollar bill. The seat of the trousers got so shiny, we'd hang them on the bedpost and they'd double as a night-light.
 
-H. Jackson Brown Jr.
+**H. Jackson Brown Jr.**
 
 I've learned that you can't hide a piece of broccoli in a glass of milk.
 
