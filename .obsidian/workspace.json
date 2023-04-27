@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "41d5053ef01ed79e",
+    "type": "split",
+    "children": [
+      {
+        "id": "036c430f2fa6b1a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b525b939a4516dbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/en/Short Stories/running-in-the-rain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c447354e5b8294b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "aca73617adb8382f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e1bd2cf25d8c86f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1f6e5891380041a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "630dbe37989daa92",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d55eb2f4d25be918",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdedc001c630f8b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d09fc41278e4d877",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/en/Short Stories/running-in-the-rain.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "12faba726dcbb833",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/en/Short Stories/running-in-the-rain.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "93097b9fb8bd49f1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "404dd58baf16a45b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/en/Short Stories/running-in-the-rain.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b525b939a4516dbd",
+  "lastOpenFiles": [
+    "content/en/Short Stories/Denzels Story.md",
+    "Templates/test.md",
+    "content/en/Short Stories/14-year-old-dog-abbey.md",
+    "Untitled",
+    "Templates",
+    "New folder"
+  ]
+}
