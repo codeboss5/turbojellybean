@@ -23,10 +23,21 @@
             "id": "a12a2916c4037e6a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/en/Short Stories/14-year-old-dog-abbey.md",
+                "mode": "source",
+                "source": false
+              }
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "d919f5006a3813b7",
+        "type": "tabs",
+        "children": [
           {
             "id": "7402a185976a900b",
             "type": "leaf",
@@ -39,8 +50,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,8 +188,8 @@
   "active": "7402a185976a900b",
   "lastOpenFiles": [
     "content/en/Short Stories/14-year-old-dog-abbey.md",
-    "Templates/post.md",
     "content/en/Short Stories/God and St Francis discuss lawns.md",
+    "Templates/post.md",
     "themes/coder/exampleSite/content/projects.md",
     "themes/ananke/exampleSite/content/en/post/chapter-4.md",
     "content/en/Short Stories/the-letter.md",
