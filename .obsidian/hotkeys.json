@@ -1,10 +1,12 @@
 {
+  "workspace:close-window": [],
   "insert-template": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
-      "key": "T"
+      "key": "W"
     }
   ]
 }
