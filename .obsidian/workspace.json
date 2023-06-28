@@ -4,47 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "036c430f2fa6b1a9",
+        "id": "a9669d93552e9b49",
         "type": "tabs",
         "children": [
           {
-            "id": "b525b939a4516dbd",
+            "id": "207191a8f5179b32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/en/Short Stories/14-year-old-dog-abbey.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a12a2916c4037e6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/en/Short Stories/14-year-old-dog-abbey.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "d919f5006a3813b7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7402a185976a900b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/en/Short Stories/God and St Francis discuss lawns.md",
+                "file": "content/en/Short Stories/a-cab-ride-i-ll-never-forget.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/en/Short Stories/God and St Francis discuss lawns.md",
+                "file": "content/en/Short Stories/a-cab-ride-i-ll-never-forget.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/en/Short Stories/God and St Francis discuss lawns.md",
+                "file": "content/en/Short Stories/a-cab-ride-i-ll-never-forget.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/en/Short Stories/God and St Francis discuss lawns.md"
+                "file": "content/en/Short Stories/a-cab-ride-i-ll-never-forget.md"
               }
             }
           }
@@ -185,9 +154,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7402a185976a900b",
+  "active": "207191a8f5179b32",
   "lastOpenFiles": [
     "content/en/Short Stories/14-year-old-dog-abbey.md",
+    "content/en/Poems/the-two-day-course.md",
+    "content/en/Poems/the-old-kitchen-table.md",
+    "content/en/Poems/how-mcdougal-topped-the-score.md",
+    "content/en/Humor/winter-jokes.md",
+    "content/en/Humor/watson-and-holmes.md",
+    "content/en/Humor/wanted-criminal.md",
+    "content/en/Humor/tom-and-the-pain-killer.md",
+    "content/en/Humor/the-world-according-to-student-bloopers.md",
+    "content/en/Humor/the-gospel-truth.md",
+    "content/en/Humor/the-eighteen-bottles.md",
+    "content/en/Humor/the-common-cold.md",
+    "content/en/Humor/quotes.md",
+    "content/en/Humor/power-of-charisma.md",
+    "content/en/Humor/muhammad-ali.md",
+    "content/en/Humor/i-cnduo-t-bvleiee.md",
+    "content/en/Humor/ha-ha-ha-bird-jokes-ha-ha-ha.md",
+    "content/en/Humor/birthday-jokes.md",
+    "content/en/Humor/a-cowboy-named-bud.md",
     "content/en/Short Stories/God and St Francis discuss lawns.md",
     "uploads/god-and-st-francis-discuss-lawns.pdf.md",
     "uploads/God.md",
@@ -198,9 +185,6 @@
     "themes/coder/exampleSite/content/projects.md",
     "themes/ananke/exampleSite/content/en/post/chapter-4.md",
     "content/en/Short Stories/the-letter.md",
-    "content/en/Short Stories/desire-to-learn.md",
-    "content/en/Short Stories/running-in-the-rain.md",
-    "content/en/Short Stories/Denzels Story.md",
     "Untitled",
     "Templates",
     "New folder"
