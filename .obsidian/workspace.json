@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/en/Short Stories/encouragement.md",
+                "file": "content/en/Short Stories/mexican-fisherman-meets-harvard-mba.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/en/Short Stories/encouragement.md",
+                "file": "content/en/Short Stories/mexican-fisherman-meets-harvard-mba.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/en/Short Stories/encouragement.md",
+                "file": "content/en/Short Stories/mexican-fisherman-meets-harvard-mba.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/en/Short Stories/encouragement.md"
+                "file": "content/en/Short Stories/mexican-fisherman-meets-harvard-mba.md"
               }
             }
           }
@@ -156,6 +156,11 @@
   },
   "active": "207191a8f5179b32",
   "lastOpenFiles": [
+    "content/en/Short Stories/latkes-and-applesauce.md",
+    "content/en/Short Stories/how-babemba-tribe-forgives.md",
+    "content/en/Short Stories/God and St Francis discuss lawns.md",
+    "content/en/Short Stories/four-boys-and-the-test.md",
+    "content/en/Short Stories/encouragement.md",
     "content/en/Short Stories/desire-to-learn.md",
     "content/en/Short Stories/band-aid-for-a-broken-heart.md",
     "content/en/Short Stories/a-cab-ride-i-ll-never-forget.md",
@@ -177,14 +182,9 @@
     "content/en/Humor/i-cnduo-t-bvleiee.md",
     "content/en/Humor/ha-ha-ha-bird-jokes-ha-ha-ha.md",
     "content/en/Humor/birthday-jokes.md",
-    "content/en/Humor/a-cowboy-named-bud.md",
-    "content/en/Short Stories/God and St Francis discuss lawns.md",
-    "uploads/god-and-st-francis-discuss-lawns.pdf.md",
-    "uploads/God.md",
     "uploads",
     "static/uploads/god-and-st-francis-discuss-lawns.pdf",
     "static/uploads/God and St Francis discuss lawns.pdf",
-    "Templates/post.md",
     "Untitled",
     "Templates",
     "New folder"

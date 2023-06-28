@@ -12,71 +12,7 @@ title = "Mexican Fisherman Meets Harvard MBA"
 
 What Really Matters in Life?
 
-A vacationing American businessman standing on the pier of a quaint coastal fishing village in southern Mexico
-
-watched as a small boat with just one young Mexican fisherman pulled into the dock. Inside the small boat
-
-were several large yellowfin tuna. Enjoying the warmth of the early afternoon sun, the American complimented
-
-the Mexican on the quality of his fish.
-
-"How long did it take you to catch them?" the American casually asked.
-
-"Oh, a few hours," the Mexican fisherman replied.
-
-"Why don't you stay out longer and catch more fish?" the American businessman then asked.
-
-The Mexican warmly replied, "With this I have more than enough to meet my family's needs."
-
-The businessman then became serious, "But what do you do with the rest of your time?"
-
-Responding with a smile, the Mexican fisherman answered, "I sleep late, play with my children, watch ball
-
-games, and take siesta with my wife. Sometimes in the evenings I take a stroll into the village to see my
-
-friends, play the guitar, sing a few songs..."
-
-The American businessman impatiently interrupted, "Look, I have an MBA from Harvard, and I can help you to
-
-be more profitable. You can start by fishing several hours longer every day. You can then sell the extra fish you
-
-catch. With the extra money, you can buy a bigger boat. With the additional income that larger boat will bring,
-
-before long you can buy a second boat, then a third one, and so on, until you have an entire fleet of fishing
-
-boats."
-
-Proud of his own sharp thinking, he excitedly elaborated a grand scheme which could bring even bigger profits,
-
-"Then, instead of selling your catch to a middleman you'll be able to sell your fish directly to the processor, or
-
-even open your own cannery. Eventually, you could control the product, processing and distribution. You could
-
-leave this tiny coastal village and move to Mexico City, or possibly even Los Angeles or New York City, where
-
-you could even further expand your enterprise."
-
-Having never thought of such things, the Mexican fisherman asked, "But how long will all this take?"
-
-After a rapid mental calculation, the Harvard MBA pronounced, "Probably about 15-20 years, maybe less if you
-
-work really hard."
-
-"And then what, señor?" asked the fisherman.
-
-"Why, that's the best part!" answered the businessman with a laugh. "When the time is right, you would sell
-
-your company stock to the public and become very rich. You would make millions."
-
-"Millions? Really? What would I do with it all?" asked the young fisherman in disbelief.
-
-The businessman boasted, "Then you could happily retire with all the money you've made. You could move to
-
-a quaint coastal fishing village where you could sleep late, play with your grandchildren, watch ball games, and
-
-take siesta with your wife. You could stroll to the village in the evenings where you could play the guitar and
-
-sing with your friends all you want."
+A vacationing American businessman standing on the pier of a quaint coastal fishing village in southern Mexico watched as a small boat with just one young Mexican fisherman pulled into the dock. Inside the small boat were several large yellowfin tuna. Enjoying the warmth of the early afternoon sun, the American complimented the Mexican on the quality of his fish. "How long did it take you to catch them?" the American casually asked. "Oh, a few hours," the Mexican fisherman replied. "Why don't you stay out longer and catch more fish?" the American businessman then asked. The Mexican warmly replied, "With this I have more than enough to meet my family's needs." The businessman then became serious, "But what do you do with the rest of your time?" Responding with a smile, the Mexican fisherman answered, "I sleep late, play with my children, watch ball games, and take siesta with my wife. Sometimes in the evenings I take a stroll into the village to see my friends, play the guitar, sing a few songs..." The American businessman impatiently interrupted, "Look, I have an MBA from Harvard, and I can help you to be more profitable. You can start by fishing several hours longer every day. You can then sell the extra fish you catch. With the extra money, you can buy a bigger boat. With the additional income that larger boat will bring, before long you can buy a second boat, then a third one, and so on, until you have an entire fleet of fishing boats." Proud of his own sharp thinking, he excitedly elaborated a grand scheme which could bring even bigger profits, "Then, instead of selling your catch to a middleman you'll be able to sell your fish directly to the processor, or even open your own cannery. Eventually, you could control the product, processing and distribution. You could leave this tiny coastal village and move to Mexico City, or possibly even Los Angeles or New York City, where you could even further expand your enterprise." Having never thought of such things, the Mexican fisherman asked, "But how long will all this take?" After a rapid mental calculation, the Harvard MBA pronounced, "Probably about 15-20 years, maybe less if you work really hard." "And then what, señor?" asked the fisherman. "Why, that's the best part!" answered the businessman with a laugh. "When the time is right, you would sell your company stock to the public and become very rich. You would make millions." "Millions? Really? What would I do with it all?" asked the young fisherman in disbelief. The businessman boasted, "Then you could happily retire with all the money you've made. You could move to a quaint coastal fishing village where you could sleep late, play with your grandchildren, watch ball games, and take siesta with your wife. You could stroll to the village in the evenings where you could play the guitar and sing with your friends all you want." 
 
 The moral of the story is: Know what really matters in life, and you may find that it is already much closer than
 
