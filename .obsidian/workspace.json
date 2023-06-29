@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/en/Short Stories/no-greater-love.md",
+                "file": "content/en/Short Stories/running-in-the-rain.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/en/Short Stories/no-greater-love.md",
+                "file": "content/en/Short Stories/running-in-the-rain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/en/Short Stories/no-greater-love.md",
+                "file": "content/en/Short Stories/running-in-the-rain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/en/Short Stories/no-greater-love.md"
+                "file": "content/en/Short Stories/running-in-the-rain.md"
               }
             }
           }
@@ -156,6 +156,8 @@
   },
   "active": "207191a8f5179b32",
   "lastOpenFiles": [
+    "content/en/Short Stories/perspective-through-the-eyes-of-a-child.md",
+    "content/en/Short Stories/no-greater-love.md",
     "content/en/Short Stories/mexican-fisherman-meets-harvard-mba.md",
     "content/en/Short Stories/latkes-and-applesauce.md",
     "content/en/Short Stories/how-babemba-tribe-forgives.md",
@@ -180,8 +182,6 @@
     "content/en/Humor/quotes.md",
     "content/en/Humor/power-of-charisma.md",
     "content/en/Humor/muhammad-ali.md",
-    "content/en/Humor/i-cnduo-t-bvleiee.md",
-    "content/en/Humor/ha-ha-ha-bird-jokes-ha-ha-ha.md",
     "uploads",
     "static/uploads/god-and-st-francis-discuss-lawns.pdf",
     "static/uploads/God and St Francis discuss lawns.pdf",
