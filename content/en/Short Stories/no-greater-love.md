@@ -10,11 +10,7 @@ title = "No Greater Love"
 +++
 [**Download as PDF**](/uploads/no-greater-love.pdf)
 
-This is a remarkable story of sacrifice born out of deep friendship. The author says: " I heard this
-
-story when I was in Vietnam, and it was told me as a fact. I have no way of knowing for sure that
-
-it is true, but I do know that stranger things have happened in war."
+This is a remarkable story of sacrifice born out of deep friendship. The author says: " I heard this story when I was in Vietnam, and it was told me as a fact. I have no way of knowing for sure that it is true, but I do know that stranger things have happened in war."
 
 Whatever their planned target, the mortar rounds landed in an orphanage run by a missionary
 
