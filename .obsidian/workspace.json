@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/en/Short Stories/running-in-the-rain.md",
+                "file": "content/en/Videos/video.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/en/Short Stories/running-in-the-rain.md",
+                "file": "content/en/Videos/video.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/en/Short Stories/running-in-the-rain.md",
+                "file": "content/en/Videos/video.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/en/Short Stories/running-in-the-rain.md"
+                "file": "content/en/Videos/video.md"
               }
             }
           }
@@ -156,6 +156,25 @@
   },
   "active": "207191a8f5179b32",
   "lastOpenFiles": [
+    "content/en/Stories/the-three-questions.md",
+    "content/en/Stories/the-star-dipper.md",
+    "content/en/Stories/easter-story.md",
+    "content/en/Stories/a-toast-to-toasters-everywhere.md",
+    "content/en/Stories/Christmas Stories Countdown Book/christmas-stories-countdown-book.md",
+    "uploads/christmas_stories.pdf.md",
+    "content/en/Short Stories/which-of-the-nine.md",
+    "content/en/Short Stories/when-the-wise-man-appeared.md",
+    "content/en/Short Stories/weeds-from-a-blind-boy.md",
+    "content/en/Short Stories/we-don-t-have-lots-lots-friends....just-good-friends..md",
+    "content/en/Short Stories/the-stranger.md",
+    "content/en/Short Stories/the-storm.md",
+    "content/en/Short Stories/the-salvation-of-billy-baxter.md",
+    "content/en/Short Stories/the-medicine-bag.md",
+    "content/en/Short Stories/the-letter.md",
+    "content/en/Short Stories/the-christmas-carol-miracle.md",
+    "content/en/Short Stories/teach-me-to-forgive.md",
+    "content/en/Short Stories/stop-the-sun.md",
+    "content/en/Short Stories/running-in-the-rain.md",
     "content/en/Short Stories/perspective-through-the-eyes-of-a-child.md",
     "content/en/Short Stories/no-greater-love.md",
     "content/en/Short Stories/mexican-fisherman-meets-harvard-mba.md",
@@ -163,25 +182,6 @@
     "content/en/Short Stories/how-babemba-tribe-forgives.md",
     "content/en/Short Stories/God and St Francis discuss lawns.md",
     "content/en/Short Stories/four-boys-and-the-test.md",
-    "content/en/Short Stories/encouragement.md",
-    "content/en/Short Stories/desire-to-learn.md",
-    "content/en/Short Stories/band-aid-for-a-broken-heart.md",
-    "content/en/Short Stories/a-cab-ride-i-ll-never-forget.md",
-    "content/en/Short Stories/14-year-old-dog-abbey.md",
-    "content/en/Poems/the-two-day-course.md",
-    "content/en/Poems/the-old-kitchen-table.md",
-    "content/en/Poems/how-mcdougal-topped-the-score.md",
-    "content/en/Humor/winter-jokes.md",
-    "content/en/Humor/watson-and-holmes.md",
-    "content/en/Humor/wanted-criminal.md",
-    "content/en/Humor/tom-and-the-pain-killer.md",
-    "content/en/Humor/the-world-according-to-student-bloopers.md",
-    "content/en/Humor/the-gospel-truth.md",
-    "content/en/Humor/the-eighteen-bottles.md",
-    "content/en/Humor/the-common-cold.md",
-    "content/en/Humor/quotes.md",
-    "content/en/Humor/power-of-charisma.md",
-    "content/en/Humor/muhammad-ali.md",
     "uploads",
     "static/uploads/god-and-st-francis-discuss-lawns.pdf",
     "static/uploads/God and St Francis discuss lawns.pdf",
