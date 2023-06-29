@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/en/Short Stories/mexican-fisherman-meets-harvard-mba.md",
+                "file": "content/en/Short Stories/no-greater-love.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/en/Short Stories/mexican-fisherman-meets-harvard-mba.md",
+                "file": "content/en/Short Stories/no-greater-love.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/en/Short Stories/mexican-fisherman-meets-harvard-mba.md",
+                "file": "content/en/Short Stories/no-greater-love.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/en/Short Stories/mexican-fisherman-meets-harvard-mba.md"
+                "file": "content/en/Short Stories/no-greater-love.md"
               }
             }
           }
@@ -156,6 +156,7 @@
   },
   "active": "207191a8f5179b32",
   "lastOpenFiles": [
+    "content/en/Short Stories/mexican-fisherman-meets-harvard-mba.md",
     "content/en/Short Stories/latkes-and-applesauce.md",
     "content/en/Short Stories/how-babemba-tribe-forgives.md",
     "content/en/Short Stories/God and St Francis discuss lawns.md",
@@ -181,7 +182,6 @@
     "content/en/Humor/muhammad-ali.md",
     "content/en/Humor/i-cnduo-t-bvleiee.md",
     "content/en/Humor/ha-ha-ha-bird-jokes-ha-ha-ha.md",
-    "content/en/Humor/birthday-jokes.md",
     "uploads",
     "static/uploads/god-and-st-francis-discuss-lawns.pdf",
     "static/uploads/God and St Francis discuss lawns.pdf",
