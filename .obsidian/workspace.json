@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/en/Videos/video.md",
+                "file": "content/en/Poems/how-mcdougal-topped-the-score.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/en/Videos/video.md",
+                "file": "content/en/Poems/how-mcdougal-topped-the-score.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/en/Videos/video.md",
+                "file": "content/en/Poems/how-mcdougal-topped-the-score.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/en/Videos/video.md"
+                "file": "content/en/Poems/how-mcdougal-topped-the-score.md"
               }
             }
           }
@@ -141,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,6 +155,7 @@
   },
   "active": "207191a8f5179b32",
   "lastOpenFiles": [
+    "content/en/Videos/video.md",
     "content/en/Stories/the-three-questions.md",
     "content/en/Stories/the-star-dipper.md",
     "content/en/Stories/easter-story.md",
@@ -181,7 +181,6 @@
     "content/en/Short Stories/latkes-and-applesauce.md",
     "content/en/Short Stories/how-babemba-tribe-forgives.md",
     "content/en/Short Stories/God and St Francis discuss lawns.md",
-    "content/en/Short Stories/four-boys-and-the-test.md",
     "uploads",
     "static/uploads/god-and-st-francis-discuss-lawns.pdf",
     "static/uploads/God and St Francis discuss lawns.pdf",
