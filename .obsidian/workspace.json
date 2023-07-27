@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/en/Poems/poem silly.md",
+                "file": "content/en/Poems/the-old-kitchen-table.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/en/Poems/poem silly.md",
+                "file": "content/en/Poems/the-old-kitchen-table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/en/Poems/poem silly.md",
+                "file": "content/en/Poems/the-old-kitchen-table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/en/Poems/poem silly.md"
+                "file": "content/en/Poems/the-old-kitchen-table.md"
               }
             }
           }
@@ -156,8 +156,9 @@
   },
   "active": "207191a8f5179b32",
   "lastOpenFiles": [
-    "content/en/Short Stories/we-don-t-have-lots-lots-friends....just-good-friends..md",
     "content/en/Poems/poem silly.md",
+    "content/en/Poems/the-old-kitchen-table.md",
+    "content/en/Short Stories/we-don-t-have-lots-lots-friends....just-good-friends..md",
     "content/en/Short Stories/the-stranger.md",
     "content/en/Short Stories/the-storm.md",
     "content/en/Short Stories/the-salvation-of-billy-baxter.md",
@@ -175,7 +176,6 @@
     "content/en/Short Stories/a-cab-ride-i-ll-never-forget.md",
     "content/en/Short Stories/14-year-old-dog-abbey.md",
     "content/en/Poems/the-two-day-course.md",
-    "content/en/Poems/the-old-kitchen-table.md",
     "content/en/Poems/how-mcdougal-topped-the-score.md",
     "content/en/Humor/winter-jokes.md",
     "content/en/Humor/watson-and-holmes.md",
