@@ -1,5 +1,5 @@
 +++
-date = {{Date:YYYY-MM-DD}}
+date = "{{Date:YYYY-MM-DD}}""
 description = ""
 disable_share = true
 featured_image = ""
