@@ -17,5 +17,14 @@
       ],
       "key": "B"
     }
+  ],
+  "editor:save-file": [],
+  "obsidian-git:backup-and-close": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "S"
+    }
   ]
 }
