@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a9669d93552e9b49",
+        "id": "dd29003109b17033",
         "type": "tabs",
         "children": [
           {
-            "id": "207191a8f5179b32",
+            "id": "65f58920959f5435",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "uploads/god-and-st-francis-discuss-lawns.pdf.md",
+                "file": "content/en/Poems/new-story.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "uploads/god-and-st-francis-discuss-lawns.pdf.md",
+                "file": "content/en/Poems/new-story.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "uploads/god-and-st-francis-discuss-lawns.pdf.md",
+                "file": "content/en/Poems/new-story.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "uploads/god-and-st-francis-discuss-lawns.pdf.md"
+                "file": "content/en/Poems/new-story.md"
               }
             }
           }
@@ -141,7 +141,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,13 +154,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "207191a8f5179b32",
+  "active": "65f58920959f5435",
   "lastOpenFiles": [
+    "content/en/Poems/how-mcdougal-topped-the-score.md",
+    "content/en/Poems/new-story.md",
+    "Templates/post.md",
+    "content/en/Poems/the-two-day-course.md",
+    "content/en/Poems/the-old-kitchen-table.md",
+    "content/en/Untitled.md",
+    "content/en/_index.md",
+    "static/uploads/2023-01-09-10_37_56-window.jpg",
+    "static/uploads/a-cab-ride-i-ll-never-forget.pdf",
+    "static/uploads/2022-12-13-12_38_08-document1-word.png",
+    "static/images/Victor_Hugo-Hunchback.jpg",
+    "static/images/Pope-Edouard-de-Beaumont-1844.jpg",
+    "static/images/notebook.jpg",
+    "static/images/esmeralda.jpg",
+    "uploads/god-and-st-francis-discuss-lawns.pdf.md",
     "uploads/God.md",
     "uploads/christmas_stories.pdf.md",
-    "uploads/god-and-st-francis-discuss-lawns.pdf.md",
     "conflict-files-obsidian-git.md",
-    "content/en/Poems/how-mcdougal-topped-the-score.md",
     "content/en/Videos/video.md",
     "content/en/Stories/the-three-questions.md",
     "content/en/Stories/the-star-dipper.md",
@@ -175,12 +189,6 @@
     "content/en/Short Stories/the-salvation-of-billy-baxter.md",
     "content/en/Short Stories/the-medicine-bag.md",
     "content/en/Short Stories/the-letter.md",
-    "content/en/Short Stories/the-christmas-carol-miracle.md",
-    "content/en/Short Stories/teach-me-to-forgive.md",
-    "content/en/Short Stories/stop-the-sun.md",
-    "content/en/Short Stories/running-in-the-rain.md",
-    "content/en/Short Stories/perspective-through-the-eyes-of-a-child.md",
-    "content/en/Short Stories/no-greater-love.md",
     "uploads",
     "static/uploads/god-and-st-francis-discuss-lawns.pdf",
     "static/uploads/God and St Francis discuss lawns.pdf",
