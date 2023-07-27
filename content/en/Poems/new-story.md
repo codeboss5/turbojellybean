@@ -1,13 +1,14 @@
 +++
-date = "{{YYYY-MM-DD}}"
+date = ""
 description = ""
 disable_share = true
 featured_image = ""
-pdf = "/uploads/{{Title}}.pdf"
+pdf = "/uploads/{{TITLE}}.pdf"
 tags = []
-title = "{{Title}}"
+title = "{{TITLE}}"
 
 +++
 [**Download as PDF**](/uploads/{{Title}}.pdf)
+
 hello my name is george
 
