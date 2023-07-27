@@ -1,11 +1,11 @@
 +++
-date = {{Date:YYYY-MM-DD}}
+date = ""
 description = ""
 disable_share = true
 featured_image = ""
 pdf = "/uploads/{{Title}}.pdf"
 tags = []
-title = "{{Title}}"
+title = ""
 
 +++
 [**Download as PDF**](/uploads/{{Title}}.pdf)
