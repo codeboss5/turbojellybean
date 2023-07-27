@@ -1,5 +1,5 @@
 +++
-date = "2023-07-26"
+date = "{{YYYY-MM-DD}}"
 description = ""
 disable_share = true
 featured_image = ""
