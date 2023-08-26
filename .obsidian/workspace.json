@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/en/Poems/the-old-kitchen-table.md",
+                "file": "content/en/Humor/a-cowboy-named-bud.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/en/Poems/the-old-kitchen-table.md",
+                "file": "content/en/Humor/a-cowboy-named-bud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/en/Poems/the-old-kitchen-table.md",
+                "file": "content/en/Humor/a-cowboy-named-bud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/en/Poems/the-old-kitchen-table.md"
+                "file": "content/en/Humor/a-cowboy-named-bud.md"
               }
             }
           }
@@ -156,8 +156,10 @@
   },
   "active": "207191a8f5179b32",
   "lastOpenFiles": [
-    "content/en/Poems/poem silly.md",
+    "content/en/Humor/i-cnduo-t-bvleiee.md",
+    "content/en/Humor/the-eighteen-bottles.md",
     "content/en/Poems/the-old-kitchen-table.md",
+    "content/en/Poems/poem silly.md",
     "content/en/Short Stories/we-don-t-have-lots-lots-friends....just-good-friends..md",
     "content/en/Short Stories/the-stranger.md",
     "content/en/Short Stories/the-storm.md",
@@ -180,8 +182,6 @@
     "content/en/Humor/winter-jokes.md",
     "content/en/Humor/watson-and-holmes.md",
     "content/en/Humor/wanted-criminal.md",
-    "content/en/Humor/tom-and-the-pain-killer.md",
-    "content/en/Humor/the-world-according-to-student-bloopers.md",
     "uploads",
     "static/uploads/god-and-st-francis-discuss-lawns.pdf",
     "static/uploads/God and St Francis discuss lawns.pdf",
