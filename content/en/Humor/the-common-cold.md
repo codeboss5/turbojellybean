@@ -27,7 +27,7 @@ I did not call you to be told
 My malady is a common cold.
 
 
-______________
+-
 By pounding brow and swollen lip;
 
 By fever’s hot and scaly grip;
@@ -61,7 +61,7 @@ The Cold Crusading for Democracy;
 The Führer of the Streptococcracy.
 
 
-_________________
+_
 Bacilli swarm within my portals
 
 Such as were ne’er conceived by mortals,
