@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/en/Humor/a-cowboy-named-bud.md",
+                "file": "content/en/Humor/the-common-cold.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/en/Humor/a-cowboy-named-bud.md",
+                "file": "content/en/Humor/the-common-cold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/en/Humor/a-cowboy-named-bud.md",
+                "file": "content/en/Humor/the-common-cold.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/en/Humor/a-cowboy-named-bud.md"
+                "file": "content/en/Humor/the-common-cold.md"
               }
             }
           }
@@ -156,7 +156,13 @@
   },
   "active": "207191a8f5179b32",
   "lastOpenFiles": [
+    "content/en/Humor/quotes.md",
+    "content/en/Humor/power-of-charisma.md",
+    "content/en/Humor/muhammad-ali.md",
     "content/en/Humor/i-cnduo-t-bvleiee.md",
+    "content/en/Humor/ha-ha-ha-bird-jokes-ha-ha-ha.md",
+    "content/en/Humor/birthday-jokes.md",
+    "content/en/Humor/a-cowboy-named-bud.md",
     "content/en/Humor/the-eighteen-bottles.md",
     "content/en/Poems/the-old-kitchen-table.md",
     "content/en/Poems/poem silly.md",
@@ -176,12 +182,6 @@
     "content/en/Short Stories/desire-to-learn.md",
     "content/en/Short Stories/band-aid-for-a-broken-heart.md",
     "content/en/Short Stories/a-cab-ride-i-ll-never-forget.md",
-    "content/en/Short Stories/14-year-old-dog-abbey.md",
-    "content/en/Poems/the-two-day-course.md",
-    "content/en/Poems/how-mcdougal-topped-the-score.md",
-    "content/en/Humor/winter-jokes.md",
-    "content/en/Humor/watson-and-holmes.md",
-    "content/en/Humor/wanted-criminal.md",
     "uploads",
     "static/uploads/god-and-st-francis-discuss-lawns.pdf",
     "static/uploads/God and St Francis discuss lawns.pdf",
