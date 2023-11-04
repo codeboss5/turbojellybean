@@ -23,9 +23,14 @@
             "id": "f3f7de00010ec4b0",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "canvas",
               "state": {
-                "currentVersion": "1.4.14"
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -104,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/en/Humor/the-common-cold.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/en/Humor/the-common-cold.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/en/Humor/the-common-cold.md"
+                "file": "Untitled.canvas"
               }
             }
           }
@@ -167,6 +172,7 @@
   },
   "active": "f3f7de00010ec4b0",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "content/en/Humor/quotes.md",
     "content/en/Humor/power-of-charisma.md",
     "content/en/Humor/muhammad-ali.md",
@@ -192,7 +198,6 @@
     "content/en/Short Stories/encouragement.md",
     "content/en/Short Stories/desire-to-learn.md",
     "content/en/Short Stories/band-aid-for-a-broken-heart.md",
-    "content/en/Short Stories/a-cab-ride-i-ll-never-forget.md",
     "uploads",
     "static/uploads/god-and-st-francis-discuss-lawns.pdf",
     "static/uploads/God and St Francis discuss lawns.pdf",
