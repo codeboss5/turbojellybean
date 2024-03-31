@@ -11,11 +11,9 @@
             "id": "207191a8f5179b32",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "content/en/Humor/the-common-cold.md",
-                "mode": "source",
-                "source": false
+                "file": "static/uploads/download-2.jpg"
               }
             }
           }
@@ -73,8 +71,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/en/Humor/the-common-cold.md",
+                "file": "static/uploads/download-2.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/en/Humor/the-common-cold.md",
+                "file": "static/uploads/download-2.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/en/Humor/the-common-cold.md"
+                "file": "static/uploads/download-2.jpg"
               }
             }
           }
@@ -157,6 +154,17 @@
   },
   "active": "207191a8f5179b32",
   "lastOpenFiles": [
+    "static/uploads/download-1.jpg",
+    "static/uploads/download.jpg",
+    "static/uploads/teach-me-to-forgive.pdf",
+    "static/images/Victor_Hugo-Hunchback.jpg",
+    "static/images/Pope-Edouard-de-Beaumont-1844.jpg",
+    "static/images/notebook.jpg",
+    "static/images/esmeralda.jpg",
+    "uploads/God.md",
+    "uploads/christmas_stories.pdf.md",
+    "images/screenshot.png",
+    "images/tn.png",
     "content/en/Humor/the-common-cold.md",
     "Untitled.canvas",
     "content/en/Humor/quotes.md",
@@ -176,14 +184,11 @@
     "content/en/Short Stories/running-in-the-rain.md",
     "content/en/Stories/a-toast-to-toasters-everywhere.md",
     "content/en/Short Stories/mexican-fisherman-meets-harvard-mba.md",
-    "uploads/christmas_stories.pdf.md",
     "content/en/Short Stories/latkes-and-applesauce.md",
     "content/en/Short Stories/how-babemba-tribe-forgives.md",
     "content/en/Short Stories/God and St Francis discuss lawns.md",
     "content/en/Short Stories/four-boys-and-the-test.md",
     "content/en/Short Stories/encouragement.md",
-    "content/en/Short Stories/desire-to-learn.md",
-    "content/en/Short Stories/band-aid-for-a-broken-heart.md",
     "uploads",
     "static/uploads/god-and-st-francis-discuss-lawns.pdf",
     "static/uploads/God and St Francis discuss lawns.pdf",
