@@ -11,9 +11,11 @@
             "id": "207191a8f5179b32",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "static/uploads/download-2.jpg"
+                "file": "content/en/Humor/It's Cold.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "static/uploads/download-2.jpg",
+                "file": "content/en/Humor/It's Cold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "static/uploads/download-2.jpg",
+                "file": "content/en/Humor/It's Cold.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "static/uploads/download-2.jpg"
+                "file": "content/en/Humor/It's Cold.md"
               }
             }
           }
@@ -154,6 +156,9 @@
   },
   "active": "207191a8f5179b32",
   "lastOpenFiles": [
+    "content/en/Humor/a-cowboy-named-bud.md",
+    "content/en/Humor/It's Cold.md",
+    "static/uploads/download-2.jpg",
     "static/uploads/download-1.jpg",
     "static/uploads/download.jpg",
     "static/uploads/teach-me-to-forgive.pdf",
@@ -173,7 +178,6 @@
     "content/en/Humor/i-cnduo-t-bvleiee.md",
     "content/en/Humor/ha-ha-ha-bird-jokes-ha-ha-ha.md",
     "content/en/Humor/birthday-jokes.md",
-    "content/en/Humor/a-cowboy-named-bud.md",
     "content/en/Humor/the-eighteen-bottles.md",
     "content/en/Poems/the-old-kitchen-table.md",
     "content/en/Poems/poem silly.md",
@@ -188,7 +192,6 @@
     "content/en/Short Stories/how-babemba-tribe-forgives.md",
     "content/en/Short Stories/God and St Francis discuss lawns.md",
     "content/en/Short Stories/four-boys-and-the-test.md",
-    "content/en/Short Stories/encouragement.md",
     "uploads",
     "static/uploads/god-and-st-francis-discuss-lawns.pdf",
     "static/uploads/God and St Francis discuss lawns.pdf",
