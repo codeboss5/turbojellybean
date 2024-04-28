@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/en/Humor/It's Cold.md",
+                "file": "content/en/Humor/power-of-charisma.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/en/Humor/It's Cold.md",
+                "file": "content/en/Humor/power-of-charisma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/en/Humor/It's Cold.md",
+                "file": "content/en/Humor/power-of-charisma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/en/Humor/It's Cold.md"
+                "file": "content/en/Humor/power-of-charisma.md"
               }
             }
           }
@@ -156,8 +156,9 @@
   },
   "active": "207191a8f5179b32",
   "lastOpenFiles": [
-    "content/en/Humor/a-cowboy-named-bud.md",
+    "content/en/Videos/video.md",
     "content/en/Humor/It's Cold.md",
+    "content/en/Humor/a-cowboy-named-bud.md",
     "static/uploads/download-2.jpg",
     "static/uploads/download-1.jpg",
     "static/uploads/download.jpg",
