@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/en/Humor/power-of-charisma.md",
+                "file": "content/en/Humor/quotes.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/en/Humor/power-of-charisma.md",
+                "file": "content/en/Humor/quotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/en/Humor/power-of-charisma.md",
+                "file": "content/en/Humor/quotes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/en/Humor/power-of-charisma.md"
+                "file": "content/en/Humor/quotes.md"
               }
             }
           }
@@ -156,6 +156,9 @@
   },
   "active": "207191a8f5179b32",
   "lastOpenFiles": [
+    "uploads/quotes.pdf.md",
+    "content/en/Humor/quotes.md",
+    "content/en/Humor/power-of-charisma.md",
     "content/en/Videos/video.md",
     "content/en/Humor/It's Cold.md",
     "content/en/Humor/a-cowboy-named-bud.md",
@@ -173,8 +176,6 @@
     "images/tn.png",
     "content/en/Humor/the-common-cold.md",
     "Untitled.canvas",
-    "content/en/Humor/quotes.md",
-    "content/en/Humor/power-of-charisma.md",
     "content/en/Humor/muhammad-ali.md",
     "content/en/Humor/i-cnduo-t-bvleiee.md",
     "content/en/Humor/ha-ha-ha-bird-jokes-ha-ha-ha.md",
@@ -192,7 +193,6 @@
     "content/en/Short Stories/latkes-and-applesauce.md",
     "content/en/Short Stories/how-babemba-tribe-forgives.md",
     "content/en/Short Stories/God and St Francis discuss lawns.md",
-    "content/en/Short Stories/four-boys-and-the-test.md",
     "uploads",
     "static/uploads/god-and-st-francis-discuss-lawns.pdf",
     "static/uploads/God and St Francis discuss lawns.pdf",
