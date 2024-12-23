@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/en/Videos/video.md",
+                "file": "content/en/Music/how-mcdougal-topped-the-score 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "video"
+              "title": "how-mcdougal-topped-the-score 1"
             }
           }
         ]
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/en/Videos/video.md",
+                "file": "content/en/Music/how-mcdougal-topped-the-score 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for video"
+              "title": "Backlinks for how-mcdougal-topped-the-score 1"
             }
           },
           {
@@ -122,12 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/en/Videos/video.md",
+                "file": "content/en/Music/how-mcdougal-topped-the-score 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from video"
+              "title": "Outgoing links from how-mcdougal-topped-the-score 1"
             }
           },
           {
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/en/Videos/video.md"
+                "file": "content/en/Music/how-mcdougal-topped-the-score 1.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of video"
+              "title": "Outline of how-mcdougal-topped-the-score 1"
             }
           }
         ]
@@ -172,12 +172,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "207191a8f5179b32",
+  "active": "4e1bd2cf25d8c86f",
   "lastOpenFiles": [
+    "content/en/Humor/the-common-cold.md",
+    "content/en/Music/how-mcdougal-topped-the-score 1.md",
+    "content/en/Music/Untitled.md",
+    "content/en/Videos/video.md",
+    "content/en/Music",
     "content/en/Humor/quotes.md",
     "uploads/quotes.pdf.md",
     "content/en/Humor/power-of-charisma.md",
-    "content/en/Videos/video.md",
     "content/en/Humor/It's Cold.md",
     "content/en/Humor/a-cowboy-named-bud.md",
     "static/uploads/download-2.jpg",
@@ -192,7 +196,6 @@
     "uploads/christmas_stories.pdf.md",
     "images/screenshot.png",
     "images/tn.png",
-    "content/en/Humor/the-common-cold.md",
     "Untitled.canvas",
     "content/en/Humor/muhammad-ali.md",
     "content/en/Humor/i-cnduo-t-bvleiee.md",
@@ -209,8 +212,6 @@
     "content/en/Stories/a-toast-to-toasters-everywhere.md",
     "content/en/Short Stories/mexican-fisherman-meets-harvard-mba.md",
     "content/en/Short Stories/latkes-and-applesauce.md",
-    "content/en/Short Stories/how-babemba-tribe-forgives.md",
-    "content/en/Short Stories/God and St Francis discuss lawns.md",
     "uploads",
     "static/uploads/god-and-st-francis-discuss-lawns.pdf",
     "static/uploads/God and St Francis discuss lawns.pdf",
