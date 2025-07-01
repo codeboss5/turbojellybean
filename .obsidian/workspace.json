@@ -25,12 +25,14 @@
             "id": "d0fd1d82f22d7985",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.9"
+                "file": "content/en/Humor/birthday-jokes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "icon": "lucide-file",
+              "title": "birthday-jokes"
             }
           }
         ],
@@ -188,6 +190,10 @@
   },
   "active": "d0fd1d82f22d7985",
   "lastOpenFiles": [
+    "uploads/birthday-jokes.pdf.md",
+    "content/en/Humor/birthday-jokes.md",
+    "content/en/Humor/a-cowboy-named-bud.md",
+    "uploads/6920w.st",
     "content/en/Poems/how-mcdougal-topped-the-score.md",
     "content/en/Music/Bomerang of Flowers.md",
     "content/en/Humor/the-common-cold.md",
@@ -198,7 +204,6 @@
     "uploads/quotes.pdf.md",
     "content/en/Humor/power-of-charisma.md",
     "content/en/Humor/It's Cold.md",
-    "content/en/Humor/a-cowboy-named-bud.md",
     "static/uploads/download-2.jpg",
     "static/uploads/download-1.jpg",
     "static/uploads/download.jpg",
@@ -215,7 +220,6 @@
     "content/en/Humor/muhammad-ali.md",
     "content/en/Humor/i-cnduo-t-bvleiee.md",
     "content/en/Humor/ha-ha-ha-bird-jokes-ha-ha-ha.md",
-    "content/en/Humor/birthday-jokes.md",
     "content/en/Humor/the-eighteen-bottles.md",
     "content/en/Poems/the-old-kitchen-table.md",
     "content/en/Poems/poem silly.md",
@@ -225,7 +229,6 @@
     "content/en/Short Stories/the-salvation-of-billy-baxter.md",
     "content/en/Short Stories/running-in-the-rain.md",
     "content/en/Stories/a-toast-to-toasters-everywhere.md",
-    "content/en/Short Stories/mexican-fisherman-meets-harvard-mba.md",
     "uploads",
     "static/uploads/god-and-st-francis-discuss-lawns.pdf",
     "static/uploads/God and St Francis discuss lawns.pdf",

@@ -9,7 +9,7 @@ tags = []
 title = "Birthday Jokes"
 
 +++
-[**Download as PDF**](/uploads/birthday-jokes.pdf)
+[**Download as PDF**](/uploads/6920.st)
 
 Q: Why are birthday so good for you? 
 
