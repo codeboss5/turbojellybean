@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "birthday-jokes"
             }
+          },
+          {
+            "id": "f4059cd9d37e7519",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,7 +200,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0fd1d82f22d7985",
+  "active": "f4059cd9d37e7519",
   "lastOpenFiles": [
     "uploads/birthday-jokes.pdf.md",
     "content/en/Humor/birthday-jokes.md",
