@@ -34,33 +34,9 @@
               "icon": "lucide-file",
               "title": "how-babemba-tribe-forgives"
             }
-          },
-          {
-            "id": "32798a07e9e540de",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
-            }
-          },
-          {
-            "id": "f4059cd9d37e7519",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,8 +189,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32798a07e9e540de",
+  "active": "4e1bd2cf25d8c86f",
   "lastOpenFiles": [
+    "content/en/2026-02-09.md",
+    "content/en/Untitled 1.base",
+    "content/en/Untitled.base",
     "uploads/how-babemba-tribe-forgives.pdf.md",
     "content/en/Short Stories/how-babemba-tribe-forgives.md",
     "content/en/Short Stories/God and St Francis discuss lawns.md",
@@ -253,12 +232,10 @@
     "content/en/Poems/poem silly.md",
     "content/en/Short Stories/we-don-t-have-lots-lots-friends....just-good-friends..md",
     "content/en/Short Stories/the-stranger.md",
-    "content/en/Short Stories/the-storm.md",
     "uploads",
     "static/uploads/god-and-st-francis-discuss-lawns.pdf",
     "static/uploads/God and St Francis discuss lawns.pdf",
     "Untitled",
-    "Templates",
-    "New folder"
+    "Templates"
   ]
 }
